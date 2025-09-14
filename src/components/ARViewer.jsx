@@ -9,7 +9,8 @@ const ARViewer = () => {
     1: {
       src: "https://cdn.glitch.global/e0357436-53d4-4f1c-a944-c5abf0de4c01/Lymphatic%20System%203D%20Model%20HAWA.glb?v=1741859380450",
       title: "Human Anatomy",
-      iosSrc: "",
+      iosSrc:
+        "https://cdn.glitch.me/3bd5a0b4-ef13-48fc-9b85-6ea12e379d3b/Lymphatic%20System%203D%20Model%20HAWA%20ios.usdz?v=1743068521600",
     },
     2: {
       src: "https://cdn.glitch.global/3bd5a0b4-ef13-48fc-9b85-6ea12e379d3b/solar_system_animation.glb?v=1741894978046s",
